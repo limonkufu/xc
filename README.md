@@ -12,6 +12,9 @@
 
 [Docs](https://xcfile.dev/) | [Getting Started](https://xcfile.dev/getting-started/) | [Github](https://github.com/joerdav/xc)
 
+[![asciicast](https://asciinema.org/a/dNZ5DxyxnXmcqsVE9Qs1IyFzL.svg?autoplay=true&speed=2)](https://asciinema.org/a/dNZ5DxyxnXmcqsVE9Qs1IyFzL?autoplay=true&speed=2)
+
+
 `xc` is a task runner designed to maximise convenience, and minimise complexity.
 
 Each `xc` task is defined in simple, human-readable Markdown. Meaning that for people without the `xc` tool installed there is a clear source of useful commands in the README.md file.
